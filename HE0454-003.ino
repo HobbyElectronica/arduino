@@ -1,3 +1,6 @@
+/*
+Arduino sketch for the 1602 LCD I2c
+*/
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
